@@ -4,12 +4,13 @@
 }
 .column-2{
 width: 100%;
+font-size: 25px;
 }
 .column-4{
 width: 50%;
 }
-.column-3 {
-width: 33.33%;
+.column-5 {
+width: 50%;
 }
 .estilos{
         border-style: solid;
