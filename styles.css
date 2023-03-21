@@ -9,9 +9,14 @@ font-size: 25px;
 }
 .column-4{
 width: 50%;
+background-color: rgba(223, 190, 232, 0.179);
 }
 .column-5 {
 width: 50%;
+}
+.column-8{
+width: 50%;
+background-color: blanchedalmond;
 }
 .estilos{
         border-style: solid;
@@ -26,10 +31,21 @@ width: 50%;
 }
 .titulo2{
     background-color: black;
+    color: white;
 }
 .letra1{
     color: white;
 }
 .titulo3{
-    background-color: bisque;
+}
+body{
+    padding: 40px;
+}
+img{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+.letra2{
+    color: rgba(188, 18, 230, 0.214);
 }
